@@ -114,7 +114,7 @@ textarea.contact-form-text{
   resize: none;
   height: 120px;
 }
-.contact-form-btn{
+.contact-form-btn{	
   float: right;
   border: 0;
   background: #34495e;
@@ -123,6 +123,8 @@ textarea.contact-form-text{
   border-radius: 10px;
   cursor: pointer;
   transition: 0.5s;
+  margin-top:20px;
+  margin-right:220px;
 }
 .contact-form-btn:hover{
   background: #2980b9;
