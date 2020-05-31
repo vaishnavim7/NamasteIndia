@@ -1,4 +1,4 @@
-# Traveling-Destinations-in-India
+# Namaste-India
 
 Google Drive Links To Download Full Project Folder
 
