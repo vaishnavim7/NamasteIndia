@@ -116,8 +116,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content1:hover{
+.s-column1:hover{
 	color:#cc3300;
+	transform: scale(1.02); /*new changes zoom hover*/
 }
 .s-content1 p{
 	font-size:14px;
@@ -141,8 +142,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content2:hover{
+.s-column2:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content2 p{
 	font-size:14px;
@@ -166,8 +168,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content3:hover{
+.s-column3:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content3 p{
 	font-size:14px;
@@ -191,8 +194,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content4:hover{
+.s-column4:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content4 p{
 	font-size:14px;
@@ -217,8 +221,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content5:hover{
+.s-column5:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content5 p{
 	font-size:14px;
@@ -243,8 +248,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content21:hover{
+.s-column21:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content21 p{
 	font-size:14px;
@@ -268,8 +274,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content22:hover{
+.s-column22:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content22 p{
 	font-size:14px;
@@ -293,8 +300,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content23:hover{
+.s-column23:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content23 p{
 	font-size:14px;
@@ -318,8 +326,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content24:hover{
+.s-column24:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content24 p{
 	font-size:14px;
@@ -344,8 +353,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content25:hover{
+.s-column25:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content25 p{
 	font-size:14px;
@@ -370,8 +380,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content31:hover{
+.s-column31:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content31 p{
 	font-size:14px;
@@ -395,8 +406,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content32:hover{
+.s-column32:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content32 p{
 	font-size:14px;
@@ -420,8 +432,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content33:hover{
+.s-column33:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content33 p{
 	font-size:14px;
@@ -445,8 +458,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content34:hover{
+.s-column34:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content34 p{
 	font-size:14px;
@@ -471,8 +485,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content35:hover{
+.s-column35:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content35 p{
 	font-size:14px;
@@ -497,8 +512,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content41:hover{
+.s-column41:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content41 p{
 	font-size:14px;
@@ -522,8 +538,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content42:hover{
+.s-column42:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content42 p{
 	font-size:14px;
@@ -547,8 +564,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content43:hover{
+.s-column43:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content43 p{
 	font-size:14px;
@@ -572,8 +590,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content44:hover{
+.s-column44:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content44 p{
 	font-size:14px;
@@ -599,8 +618,9 @@
   background-color: white;
   padding: 10px;
 }
-.s-content45:hover{
+.s-column45:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s-content45 p{
 	font-size:14px;
@@ -641,8 +661,9 @@
   background-color: white;
   padding: 10px;
 }
-.s2-content1:hover{
+.s2-column1:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s2-content1 p{
 	font-size:14px;
@@ -666,8 +687,9 @@
   background-color: white;
   padding: 10px;
 }
-.s2-content2:hover{
+.s2-column2:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s2-content2 p{
 	font-size:14px;
@@ -691,8 +713,9 @@
   background-color: white;
   padding: 10px;
 }
-.s2-content3:hover{
+.s2-column3:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s2-content3 p{
 	font-size:14px;
@@ -716,8 +739,9 @@
   background-color: white;
   padding: 10px;
 }
-.s2-content4:hover{
+.s2-column4:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s2-content4 p{
 	font-size:14px;
@@ -742,8 +766,9 @@
   background-color: white;
   padding: 10px;
 }
-.s2-content5:hover{
+.s2-column5:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s2-content5 p{
 	font-size:14px;
@@ -768,8 +793,9 @@
   background-color: white;
   padding: 10px;
 }
-.s2-content21:hover{
+.s2-column21:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s2-content21 p{
 	font-size:14px;
@@ -793,8 +819,9 @@
   background-color: white;
   padding: 10px;
 }
-.s2-content22:hover{
+.s2-column22:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s2-content22 p{
 	font-size:14px;
@@ -818,8 +845,9 @@
   background-color: white;
   padding: 10px;
 }
-.s2-content23:hover{
+.s2-column23:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s2-content23 p{
 	font-size:14px;
@@ -843,8 +871,9 @@
   background-color: white;
   padding: 10px;
 }
-.s2-content24:hover{
+.s2-column24:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s2-content24 p{
 	font-size:14px;
@@ -869,8 +898,9 @@
   background-color: white;
   padding: 10px;
 }
-.s2-content25:hover{
+.s2-column25:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s2-content25 p{
 	font-size:14px;
@@ -911,8 +941,9 @@
   background-color: white;
   padding: 10px;
 }
-.s3-content1:hover{
+.s3-column1:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s3-content1 p{
 	font-size:14px;
@@ -936,8 +967,9 @@
   background-color: white;
   padding: 10px;
 }
-.s3-content2:hover{
+.s3-column2:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s3-content2 p{
 	font-size:14px;
@@ -961,8 +993,9 @@
   background-color: white;
   padding: 10px;
 }
-.s3-content3:hover{
+.s3-column3:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s3-content3 p{
 	font-size:14px;
@@ -986,8 +1019,9 @@
   background-color: white;
   padding: 10px;
 }
-.s3-content4:hover{
+.s3-column4:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s3-content4 p{
 	font-size:14px;
@@ -1012,8 +1046,9 @@
   background-color: white;
   padding: 10px;
 }
-.s3-content5:hover{
+.s3-column5:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s3-content5 p{
 	font-size:14px;
@@ -1038,8 +1073,9 @@
   background-color: white;
   padding: 10px;
 }
-.s3-content21:hover{
+.s3-column21:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s3-content21 p{
 	font-size:14px;
@@ -1063,8 +1099,9 @@
   background-color: white;
   padding: 10px;
 }
-.s3-content22:hover{
+.s3-column22:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s3-content22 p{
 	font-size:14px;
@@ -1088,8 +1125,9 @@
   background-color: white;
   padding: 10px;
 }
-.s3-content23:hover{
+.s3-column23:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s3-content23 p{
 	font-size:14px;
@@ -1113,8 +1151,9 @@
   background-color: white;
   padding: 10px;
 }
-.s3-content24:hover{
+.s3-column24:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s3-content24 p{
 	font-size:14px;
@@ -1139,8 +1178,9 @@
   background-color: white;
   padding: 10px;
 }
-.s3-content25:hover{
+.s3-column25:hover{
 	color:#cc3300;
+	transform: scale(1.02);
 }
 .s3-content25 p{
 	font-size:14px;
