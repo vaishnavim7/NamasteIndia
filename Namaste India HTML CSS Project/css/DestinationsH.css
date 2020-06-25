@@ -1,0 +1,229 @@
+*{
+	margin:  0;
+	padding: 0;
+	font-family: Century G;	
+}
+body{
+	width:100%;
+}
+
+.Nav
+{
+	background-color:#ddddbb;
+	padding: 30px 10px;
+	height: 10vh;
+	background-position: center;
+	margin:auto;
+}
+
+.Nav ul
+{
+	float: right;
+	list-style-type: none;
+	margin-top:20px;
+	margin-right:50px;
+}
+
+.Nav ul li
+{
+	display:inline-block;
+	padding:4px;
+}
+
+.Nav ul li a
+{
+	color:black;
+	text-align: center;
+	padding:5px 30px;
+	text-decoration:none;
+	font-size: 18px;
+	line-height: 15px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+.Nav a:hover{
+	background-color:#ffa64d;
+	color:#fff;
+}
+
+.Nav ul li.active a{
+	background-color:#ffa64d;
+	color:#fff;
+}
+
+.logo img
+{
+	float:left;
+	margin-top:-4.2vh;
+	width:200px;
+	height:115px;
+	margin-left:50px;
+}
+.logo-text{
+	float: left;
+	width:250px;
+	text-align:center;
+	margin-left:0px;
+	margin-top:5px;
+	color:#000080;
+}
+.logo-text h2{
+	color:#990000;
+	font-weight:850;
+	font-size: 36px;
+}
+
+.center-image
+{
+	background-image:url(../iStock.jpg);
+	height: 90vh;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+.center-text{
+	text-align: center;
+	position: absolute;
+	font-size: 50px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+}
+
+/*====================Spiritual Destinations==================*/
+.SD:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.SD{
+	padding-bottom:20px;
+	background-color:;
+	color:#604020;
+}
+.SD h2{
+	text-align:center;
+	font-weight:800;
+	line-height:1.8;
+	padding-bottom:20px;
+	padding-top:20px;
+	font-size:30px;
+}
+.SD h4{
+	text-align:center;
+}
+.s-column1 {
+  float: left;
+  width: 500px;
+  padding: 5px 5px;
+  cursor: pointer;
+  margin-left: 20%;
+  height: 145vh;
+}
+.s-column1 img {
+  border: 2px solid #661400; /* Gray border */
+  border-radius: 5px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 720px; /* Set a small width */
+  height: 350px;
+}
+.s-content1 {
+  background-color:;
+  padding: 10px;
+  width: 715px;
+  text-align:justify;
+  font-size:20px;
+  color:#604020;
+  line-height:1.3;
+}
+/*
+.s-column1:hover{
+	color:#cc3300;
+	transform: scale(1.05); 
+}*/
+.s-content1 p{
+	font-size:19px;
+}
+/*
+.s-column2 {
+  float: left;
+  width: 500px;
+  padding: 5px 5px;
+  cursor: pointer;
+  margin-left: 70px;
+  height: 120vh;
+}
+.s-column2 img {
+  border: 2px solid #661400; 
+  border-radius: 5px;  
+  padding: 5px; 
+  width: 500px; 
+  height:300px;
+}
+.s-content2 {
+  background-color:;
+  padding: 10px;
+  width: 495px;
+  text-align:center;
+  font-size:20px;
+  color:#661400;
+}
+.s-column2:hover{
+	color:#cc3300;
+	transform: scale(1.05);
+}
+.s-content2 p{
+	font-size:18px;
+}
+*/
+
+/*===================footer=====================*/
+.footer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.footer{
+	background-color:#ffa64d;
+	padding:30px;
+	margin:auto;
+}
+.footer-logo{
+	float:left;
+	margin-left:140px;
+	margin-top:10px;
+	padding-top:10px;
+}
+.info{
+	float:left;
+	margin-left:120px;
+	width:300px;
+	padding-top:10px;
+	font-size:18px;
+}
+.info p{
+	padding-right:10px;
+	padding-top:5px;
+	color:#404040;
+	line-height: 1.4;
+}
+
+.contact{
+	float:left;
+	margin-left:150px;
+	width:300px;
+	height:150px;
+	background-color:#ffa64d;
+	font-size:17px;
+	margin-top:10px;
+}
+.contact p ul li{
+	text-align:center;
+	padding:10px 10px;
+	color:#404040;
+	line-height: 1.8;
+}
+
